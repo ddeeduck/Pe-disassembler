@@ -6,7 +6,7 @@
 
 A lightweight Windows application that disassembles 32-bit PE files (.exe) and displays the assembly instructions from the `.text` section. Built with WPF and C#.
 
-Русская версия доступна [здесь](README.ru.md)
+The Russian version is available [here](README.ru.md).
 
 ## Description
 This tool allows you to explore the internal structure of executable files by extracting and decoding machine code into human-readable assembly instructions. It is designed for educational purposes and basic reverse engineering, demonstrating how PE files are structured and how x86 instructions are encoded.
