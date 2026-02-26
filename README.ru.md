@@ -28,11 +28,11 @@
 
 ## Скриншоты
 
-<img src="images/mainWindow.png">
+<img width="600" src="images/mainWindow.png">
 
 ## Пример вывода
 
-<img src="images/output.png">
+<img width="600" src="images/output.png">
 
 ## Установка и использование
 ### Требования
