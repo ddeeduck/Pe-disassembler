@@ -66,13 +66,8 @@
 - Дизассемблирование выполняется по сырым смещениям в файле, а не по виртуальным адресам (без учёта релокаций).
 
 ### Автор
-Дарья
 
-GitHub: @ddeeduck
-
-LinkedIn: deeduck
-
-Email: dehterevich.daria@gmail.com
+Дарья – [GitHub](https://github.com/ddeeduck), [Telegram](https://t.me/deeduck), [LinkedIn](www.linkedin.com/in/deeduck), Email: dehterevich.daria@gmail.com
 
 ### Лицензия
 Этот проект распространяется под лицензией MIT – подробности в файле LICENSE.
