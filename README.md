@@ -28,11 +28,11 @@ This tool allows you to explore the internal structure of executable files by ex
 
 ## Screenshots
 
-<img src="images/mainWindow.png">
+<img width="600" src="images/mainWindow.png">
 
 ## Example Output
 
-<img src="images/output.png">
+<img width="600" src="images/output.png">
 
 ## Installation & Usage
 ### Requirements
