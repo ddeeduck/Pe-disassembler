@@ -67,7 +67,7 @@ This tool allows you to explore the internal structure of executable files by ex
 
 ### Author
 
-Daria Dehterevich – [GitHub](https://github.com/ddeeduck), [Telegram](https://t.me/deeduck), [LinkedIn](www.linkedin.com/in/deeduck), Email: dehterevich.daria@gmail.com
+Daria – [GitHub](https://github.com/ddeeduck), [Telegram](https://t.me/deeduck), [LinkedIn](www.linkedin.com/in/deeduck), Email: dehterevich.daria@gmail.com
 
 ### License
 This project is licensed under the MIT License – see the LICENSE file for details.
